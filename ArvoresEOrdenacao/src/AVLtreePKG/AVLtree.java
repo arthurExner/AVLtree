@@ -2,8 +2,7 @@ package AVLtreePKG;
 
 import java.util.ArrayList;
 
-public class AVLtree {
-	
+public class AVLtree {	
 	
 	Node root;	
 	

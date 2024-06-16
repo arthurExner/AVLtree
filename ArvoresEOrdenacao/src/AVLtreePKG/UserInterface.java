@@ -3,8 +3,7 @@ package AVLtreePKG;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class UserInterface {
-	
+public class UserInterface {	
 	
     AVLtree tree;
 	private Scanner keyboard;

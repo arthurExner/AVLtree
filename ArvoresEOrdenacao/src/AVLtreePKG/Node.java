@@ -1,7 +1,6 @@
 package AVLtreePKG;
 
-public class Node {	
-	
+public class Node {		
 	
 	int value;
 	int height = 1;
