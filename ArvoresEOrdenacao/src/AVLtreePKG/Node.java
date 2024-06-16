@@ -2,6 +2,7 @@ package AVLtreePKG;
 
 public class Node {	
 	
+	
 	int value;
 	int height = 1;
 	Node left;

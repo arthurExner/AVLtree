@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 public class AVLtree {
 	
+	
 	Node root;	
 	
 //=======Inserir no
